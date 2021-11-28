@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HigorRL
-- 👀 I’m interested in WEB development and 
-systems analysis
+- 👀 I’m interested in expand my possibilities
 - 🌱 I’m currently learning HTML, CSS, JS and 
 database
 
